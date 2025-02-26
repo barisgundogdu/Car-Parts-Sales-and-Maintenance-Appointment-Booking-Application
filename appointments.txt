@@ -1,0 +1,3 @@
+barisg,Monday,9:00,BMW,2004,300000,Heavy Maintenance
+myılmaz,Monday,14:00,BMW,2018,20000,Regular Maintenance
+null,Wednesday,14:00,LAND ROVER,2018,200000,Heavy Maintenance

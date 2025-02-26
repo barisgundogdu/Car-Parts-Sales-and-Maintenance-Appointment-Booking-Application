@@ -1,0 +1,13 @@
+barisg,5,Transmission Tube,280.00,Total: $380.0,Date: 2024/05/23 23:04:18
+barisg,13,Car Tire,100.00,Total: $380.0,Date: 2024/05/23 23:04:18
+barisg,6,Transmission Oil,150.00,Total: $150.0,Date: 2024/05/24 09:34:46
+barisg,3,Car Battery,120.00,Total: $490.0,Date: 2024/05/24 10:30:57
+barisg,3,Car Battery,120.00,Total: $490.0,Date: 2024/05/24 10:30:57
+barisg,15,Windshield,250.00,Total: $490.0,Date: 2024/05/24 10:30:57
+barisg,13,Car Tire,100.00,Total: $200.0,Date: 2024/05/24 14:53:16
+barisg,13,Car Tire,100.00,Total: $200.0,Date: 2024/05/24 14:53:16
+barisg,5,Transmission Tube,280.00,Total: $430.0,Date: 2024/05/24 15:03:13
+barisg,14,Exhaust,150.00,Total: $430.0,Date: 2024/05/24 15:03:13
+barisg,14,Exhaust,150.00,Total: $150.0,Date: 2024/05/26 16:15:44
+barisg,5,Transmission Tube,280.00,Total: $430.0,Date: 2025/02/26 23:35:35
+barisg,14,Exhaust,150.00,Total: $430.0,Date: 2025/02/26 23:35:35

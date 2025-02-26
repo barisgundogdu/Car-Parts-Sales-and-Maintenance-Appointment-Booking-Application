@@ -1,0 +1,16 @@
+1,Air Filter,30.00,10
+2,Oil Filter,20.00,20
+3,Car Battery,120.00,10
+4,Brake Disc and Pad,350.00,5
+5,Transmission Tube,280.00,3
+6,Transmission Oil,150.00,10
+7,Engine Oil,80.00,25
+8,Pollen Filter,15.00,30
+9,Timing belt,250.00,10
+10,Steering Hydraulic Oil,50.00,20
+11,Brake Hydraulic Oil,50.00,20
+12,Rim,200.00,10
+13,Car Tire,100.00,10
+14,Exhaust,150.00,2
+15,Windshield,250.00,5
+16,Car Paint,180.00,20
